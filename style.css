@@ -1,0 +1,17 @@
+.container {
+    display: flex;
+    align-items: center;
+    background-color: yellow; /* Aligns the elements vertically in the center */
+  }
+
+  .container p {
+    margin-right: 10px; /* Optional: Adds space between the <p> and <a> elements */
+  }
+
+  .container a {
+    margin-right: 10px; /* Optional: Adds space between the <a> elements */
+  }
+
+  .container button {
+    margin-left: 10px; /* Optional: Adds space between the buttons */
+  }
